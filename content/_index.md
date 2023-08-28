@@ -20,6 +20,7 @@ sections:
         gradient_end: '	FloralWhite'
         gradient_start: '#004ba0'
         text_color_light: true
+    
   - block: about.biography
     id: about
     content:
