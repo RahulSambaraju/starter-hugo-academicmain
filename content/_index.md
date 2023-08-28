@@ -9,7 +9,8 @@ sections:
       title: Rahul Sambaraju's research
       image:
         filename: C:\Users\Rah_Sam\Downloads\IMG20230602105104.jpg
-      cta_alt:
+
+    cta_alt:
        ---
         <!--Custom spacing-->
         <div class="mb-3"></div>
