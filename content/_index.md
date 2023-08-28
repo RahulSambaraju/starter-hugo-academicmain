@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: Intro
     content:
       title: Rahul Sambaraju's research
       image:
@@ -32,7 +32,7 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
+        gradient_end: '	FloralWhite'
         gradient_start: '#004ba0'
         text_color_light: true
   - block: about.biography
