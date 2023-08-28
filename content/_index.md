@@ -10,13 +10,7 @@ sections:
       image:
         filename: C:\Users\Rah_Sam\Downloads\IMG20230602105104.jpg
       cta_alt:
-        label: Ask a question
-        url: 
-      cta_note:
-        label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      text: |-
-  ---
+       ---
            <!--Custom spacing-->
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
