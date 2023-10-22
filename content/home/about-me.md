@@ -10,6 +10,7 @@ widget_id: About me
 headless: true
 weight: 10
 title: Rahul Sambaraju's Research
+subtitle: Social exclusion, discourse, India, race, migration
 active: true
 design:
   columns: "1"
