@@ -1,6 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = ".next"
 
 [build.environment]
   HUGO_VERSION = "0.111.3"
@@ -23,5 +23,3 @@
 [[plugins]]
 package = "@netlify/plugin-nextjs"
 
-[build]
-publish = ".next"
