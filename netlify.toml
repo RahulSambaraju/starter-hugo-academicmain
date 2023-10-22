@@ -1,3 +1,4 @@
+npm install gatsby-plugin-netlify
 
 [build]
   command = "hugo --gc --minify -b $URL"
